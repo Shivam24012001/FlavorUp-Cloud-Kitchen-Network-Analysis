@@ -1,4 +1,5 @@
-# 📦 FlavorUp Order Performance Analysis
+# 📦 FlavorUp Cloud Kitchen Network Analysis
+
 
 ## 📘 Project Overview
 
