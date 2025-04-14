@@ -1,0 +1,53 @@
+Exploratory Data Analysis,,,,
+Operational Metrics,,,,
+Cloud Kitchens,10,,,
+Delivery Agents,20,,,
+Unique Customers,500,,,
+,,,,
+Revenue Metrics,,,,
+Revenue ,826053,,,
+Weekday,402441,,,
+Weekend,423612,,,
+Revenue per Kitchen,82605.3,,,
+Revenue per Customers,1652.106,,,
+,,,,
+Order Metrics,,,,
+Total Orders,2078,,,
+Delivered Orders,2030,,,
+Cancelled Orders,48,,,
+,,,,
+Meal time Order,,,,
+Morning,525,,,
+Noon,414,,,
+Evening,503,,,
+Night,588,,,
+Order Time,,,,
+Peak Time,805,,,
+Non-Peak Time,1225,,,
+,,,,
+Cancelled Order,,,,
+Cancelled Order,48,,,
+Cancelled Rate,2.31%,,,
+Revenue Loss due to Stock Out,31010,,,
+,,,,
+Weekday/Weekend Delivered Order,,,,
+Weekday,984,,,
+Weekend,1046,,,
+,,,,
+Delayed Delivery Analysis,,,,
+No of Delayed Deliveries,986,,,
+% of Order Delayed,48.57%,,,
+,,,,
+COUNTA of OrderID,Order Delivery Details,,,
+Location,Cancelled,Delayed,No issuse,Grand Total
+Brigade Road,2.94%,23.53%,73.53%,100.00%
+BTM Layout,2.87%,37.32%,59.81%,100.00%
+HSR Layout,1.74%,27.39%,70.87%,100.00%
+Indiranagar,1.84%,36.41%,61.75%,100.00%
+Jayanagar,2.39%,69.86%,27.75%,100.00%
+Koramangala,1.66%,48.50%,49.83%,100.00%
+Malleswaram,2.67%,48.13%,49.20%,100.00%
+Marathahalli,3.05%,80.71%,16.24%,100.00%
+MG Road,2.26%,23.53%,74.21%,100.00%
+Whitefield,2.44%,72.68%,24.88%,100.00%
+Grand Total,2.31%,47.45%,50.24%,100.00%
