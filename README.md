@@ -214,5 +214,11 @@ An interactive, dynamic dashboard for management to:
 
 ---
 
-## 📂 Folder Structure
+ ## 👨‍💻 Built With
+
+- Google Sheets  
+- Looker Studio  
+- Excel Functions (IF, IFS, Variance, etc.)  
+- Data Analysis Logic  
+
 
